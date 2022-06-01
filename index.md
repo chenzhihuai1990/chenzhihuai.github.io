@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Zhihuai Chen （陈志怀）
 
 You can use the [editor on GitHub](https://github.com/chenzhihuai1990/chenzhihuai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
